@@ -3,3 +3,4 @@ Step 2: Order Pizza
 Step 3: Add Pepperoni
 Step 4: Add Sausage
 Step 5: Add Olives
+Add Tomato Suase and Cheese
