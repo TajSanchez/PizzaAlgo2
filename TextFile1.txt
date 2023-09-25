@@ -1,3 +1,4 @@
 Step 1: Talk to cashier
 Step 2: Order Pizza
 Step 3: Add Pepperoni
+Step 4: Add Sausage
