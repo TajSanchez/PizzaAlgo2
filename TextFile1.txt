@@ -11,9 +11,10 @@ Step 10: Request A Root Beer To Drink
 Step 11: Pay For Food 
 Step 11A: If Paying By Card: Give Cashier Card Info While On The Phone. If Paying By Cash Refer To Step(14A).
 Step 12: Drive To Pizza Place
-Step 13: Arrive To Pizza Place and Pick Up Pizza
+Step 13: Arrive To Pizza Place and Pick Up Pizza and Wings
 Step 14: Take Pizza From Cashier
-Step 14A: If Paying With Cash Give The Cash To Cashier Before Taking Pizza
-Step 15: Drive Home With Pizza
+Step 14A: If Paying With Cash Give The Cash To Cashier Before Taking Pizza and Wings
+Step 15: Drive Home With Pizza and Wings
 Step 16: Arrive Home and Get Plates and Cups Ready
-Step 17: Put Pizza On Plates and Root Beer in Cups
+Step 17: Put Pizza and Wings On Plates Pour Root Beer in Cups
+Step 18: Enjoy Your Dinner
