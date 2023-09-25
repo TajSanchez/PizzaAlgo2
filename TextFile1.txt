@@ -3,5 +3,6 @@ Step 2: Order Pizza
 Step 3: Add Pepperoni
 Step 4: Add Sausage
 Step 5: Add Olives
-Add Tomato Suase and Cheese
-Step 8: Request Brooklyn Style Crust with Garlic Butter
+Step 6: Add Tomato Suase and Cheese
+Step 7: Request Brooklyn Style Crust with Garlic Butter
+Step 8: Add Buffalo Wings
