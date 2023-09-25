@@ -9,6 +9,8 @@ Step 8: Add Buffalo Wings
 Step 9: Add Extra Buffalo Sauce with Extra Ranch as Well
 Step 10: Request A Root Beer To Drink
 Step 11: Pay For Food 
-Step 11A: If Paying By Card: Give Cashier Card Info While On The Phone. If Paying By Cash Refer To Step().
+Step 11A: If Paying By Card: Give Cashier Card Info While On The Phone. If Paying By Cash Refer To Step(14A).
 Step 12: Drive To Pizza Place
 Step 13: Arrive To Pizza Place and Pick Up Pizza
+Step 14: Take Pizza From Cashier
+Step 14A: If Paying With Cash Give The Cash To Cashier Before Taking Pizza
