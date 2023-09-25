@@ -1,2 +1,3 @@
-Call Pizza Place
-Tell the person on the phone what you would like
+Step 1: Talk to cashier
+Step 2: Order Pizza
+blah
