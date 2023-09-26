@@ -3,9 +3,10 @@ Step 2: Order Pizza
 Step 3: Add Pepperoni
 Step 4: Add Sausage
 Step 5: Add Olives
-Step 6: Add Tomato Suase and Cheese
+Step 6: Add Tomato Suace and Cheese
 Step 7: Request Brooklyn Style Crust with Garlic Butter
 Step 8: Add Buffalo Wings
+Step 8A: Make It A 20 Piece
 Step 9: Add Extra Buffalo Sauce with Extra Ranch as Well
 Step 10: Request A Root Beer To Drink
 Step 11: Pay For Food 
@@ -16,5 +17,6 @@ Step 14: Take Pizza and Wings From Cashier
 Step 14A: If Paying With Cash Give The Cash To Cashier Before Taking Pizza and Wings
 Step 15: Drive Home With Pizza and Wings
 Step 16: Arrive Home and Get Plates and Cups Ready
+Step 16A: Make Sure You Use Paper Plates And Solo Cups. We Don't Want To Do Any Dishes Later.
 Step 17: Put Pizza and Wings On Plates Pour Root Beer in Cups
 Step 18: Enjoy Your Dinner
